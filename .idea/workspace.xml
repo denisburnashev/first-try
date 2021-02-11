@@ -12,6 +12,9 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="wiki" />
@@ -47,21 +50,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="295" key="GridCell.Tab.0.bottom" timestamp="1613022223950">
+    <state x="740" y="282" key="FileChooserDialogImpl" timestamp="1613035418074">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1613022223950" />
-    <state width="1899" height="295" key="GridCell.Tab.0.center" timestamp="1613022223950">
+    <state x="740" y="282" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1613035418074" />
+    <state width="1899" height="294" key="GridCell.Tab.0.bottom" timestamp="1613041346721">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1613022223950" />
-    <state width="1899" height="295" key="GridCell.Tab.0.left" timestamp="1613022223950">
+    <state width="1899" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1613041346721" />
+    <state width="1899" height="294" key="GridCell.Tab.0.center" timestamp="1613041346721">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1613022223950" />
-    <state width="1899" height="295" key="GridCell.Tab.0.right" timestamp="1613022223950">
+    <state width="1899" height="294" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1613041346721" />
+    <state width="1899" height="294" key="GridCell.Tab.0.left" timestamp="1613041346721">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1613022223950" />
+    <state width="1899" height="294" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1613041346721" />
+    <state width="1899" height="294" key="GridCell.Tab.0.right" timestamp="1613041346721">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="294" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1613041346721" />
   </component>
 </project>
